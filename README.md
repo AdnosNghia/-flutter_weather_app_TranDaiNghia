@@ -141,3 +141,8 @@ lib/
 ## License
 
 Sinh viên: Trần Đại Nghĩa
+
+
+Video Thuyết trình 
+https://drive.google.com/file/d/1XtW4gmc2RDSYtZLSNSS9b0siy3TgEApt/view?usp=sharing
+
