@@ -32,14 +32,24 @@ OPENWEATHER_API_KEY=your_actual_api_key
 
 ## Ảnh chụp màn hình
 
-- Thời tiết quang đãng / nắng: `screenshots/clear_weather.png`
-- Thời tiết mưa: `screenshots/rain_weather.png`
-- Thời tiết nhiều mây: `screenshots/cloudy_weather.png`
-- Chế độ ban đêm: `screenshots/night_mode.png`
-- Màn hình tìm kiếm: `screenshots/search_screen.png`
-- Màn hình dự báo: `screenshots/forecast_screen.png`
-- Trạng thái tải (loading): `screenshots/loading_state.png`
-- Trạng thái lỗi: `screenshots/error_state.png`
+- Màn hình thời tiết
+  <img width="867" height="1888" alt="image" src="https://github.com/user-attachments/assets/9ef0b98e-7389-4030-8eb5-14b83c28258a" />
+
+- Dự báo theo giờ và theo ngày
+<img width="867" height="1888" alt="image" src="https://github.com/user-attachments/assets/bffa038c-e9cb-4025-ad3f-9f6b4e217ea4" />
+
+- Thông tin chi tiết
+<img width="867" height="1888" alt="image" src="https://github.com/user-attachments/assets/36a1184a-ca5f-47e9-9817-5c65609019d7" />
+
+- Màn hình cài đặt
+<img width="867" height="1888" alt="image" src="https://github.com/user-attachments/assets/d194edec-fb57-4c85-acd3-2ed85921b39f" />
+
+- Chuyển đổi ngôn ngữ 
+<img width="867" height="1888" alt="image" src="https://github.com/user-attachments/assets/01953ced-b213-4c74-ab27-9f46664a929a" />
+
+- Tìm kiếm thành phố(gồm lịch sử và thành phố yêu thích)
+<img width="867" height="1888" alt="image" src="https://github.com/user-attachments/assets/d4ec640d-a3fc-40a1-a4ae-e4cbdf2b6684" />
+
 
 ## Cách chạy dự án
 
